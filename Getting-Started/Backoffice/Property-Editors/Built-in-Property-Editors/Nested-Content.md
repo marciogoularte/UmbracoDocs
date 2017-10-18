@@ -28,6 +28,17 @@ The data-type editor allows you to configure the following properties.
 
 Once your data type has been configured, simply set-up a property on your page doc type using your new data type and you are set to start editing.
 
+### Data types not supported
+* "Umbraco.CheckBoxList"
+* "Umbraco.DropDownMultiple"
+* "Umbraco.MacroContainer"
+* "Umbraco.RadioButtonList"
+* "Umbraco.MultipleTextstring"
+* "Umbraco.Tags"
+* "Umbraco.UploadField"
+* "Umbraco.ImageCropper"
+
+
 
 
 ## Editing Nested Content
